@@ -107,6 +107,7 @@ SampleA<-readIDAT(c("4194720019AGrn.idat"))
       
       AVG_Signal<-cbind(SampleA_limma[[4]], SampleB_limma[[4]], SampleC_limma[[4]], SampleD_limma[[4]],SampleE_limma[[4]],SampleF_limma[[4]],SampleG_limma[[4]],SampleH_limma[[4]],SampleI_limma[[4]], SampleJ_limma[[4]], SampleK_limma[[4]], SampleL_limma[[4]] )
      
+      write.csv(data.frame(Probe_Annotation, AVG_Signal), "Illumina_HRLR_P14_F15_AVG_Signal.csv")
         
       str(AVG_Signal)
       log2AVG_Signal<-log2(AVG_Signal)
