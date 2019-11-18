@@ -7,9 +7,9 @@ This repository is part of the code release to accompany the manuscript "Genetic
 The code included in that repository focuses on the analysis and meta-analysis of the transcriptional profiling data (microarray, RNA-Seq). 
 
 ## General description of the current repository: 
-This repository was created by Megan Hagenauer, but also includes some code written by other contributors (Dr. Fan Meng, Isabelle Birt). The code included in this repository focuses on the basic preprocessing of the some of the transcriptional profiling data (microarray, RNA-Seq), as well as downstream analyses that were performed using the results from the meta-analysis, including the evaluation of overlap with genetic findings.
+https://github.com/hagenaue/HRLR_MetaAnalysisProject This repository was created by Megan Hagenauer, but also includes some code written by other contributors (Dr. Fan Meng, Isabelle Birt). The code included in this repository focuses on the basic preprocessing of the some of the transcriptional profiling data (microarray, RNA-Seq), as well as downstream analyses that were performed using the results from the meta-analysis, including the evaluation of overlap with genetic findings.
 
-## Description of the individaul files in the current respository:
+## Description of the individual files in the current respository:
 Code used to analyze and produce figures for Dr. Kathryn Hilde and Alex Stefanov Bmp4 qPCR studies:
 * PCR_ReanalysisCode.R
 
