@@ -11,7 +11,7 @@ https://github.com/hagenaue/HRLR_MetaAnalysisProject This repository was created
 
 ## Description of the individual files in the current respository:
 Code used to analyze and produce figures for Dr. Kathryn Hilde and Alex Stefanov Bmp4 qPCR studies:
-* PCR_ReanalysisCode.R
+* PCR_ReanalysisCode_P14_P90.R
 
 Code used to perform some of the initial preprocessing of Dr. Sarah Clinton’s developmental Affymetrix microarray study from the F6 generation: MBNI_AffymetrixRgU34A_F6
 * HRLR_ClintonOldDevelopment_Affy_RMA_ReAnnotation.R
