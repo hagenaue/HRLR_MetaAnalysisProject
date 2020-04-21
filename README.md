@@ -60,3 +60,6 @@ Code used to explore the hippocampal specific co-expression networks (e.g. for e
 
 Code used to explore the overlap between hippocampal specific co-expression networks and top meta-analysis genes and the Mousebrain.org single-cell hippocampal expression database:
 * Code_ZeiselvsHippocampalExpression_HC.R
+
+Code used to examine the overlap between the top differentially expressed genes identified in the hippocampus of bHR/bLR rats versus the top differentially-expressed genes identified in the hippocampus of other bred rat models of internalizing/externalizing behavior. This code begins with a re-analysis of a publicly-available microarray dataset comparing Flinders Sensitive Line vs. Flinders Resistant Line (Blaveri et al. 2010), and ends with a broader analysis comparing across multiple models, using a database of differentially-expressed genes that I compiled from the re-analysis of Blaveri et al. (2010) and the published results from 8 other studies:
+* Flinders_Code_HC_20190124.R 
